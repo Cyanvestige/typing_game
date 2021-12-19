@@ -2,8 +2,6 @@
 
 > Created with Python + Pygame
 
-<br>
-
 There are 5 different difficulties. No matter how fast you can type I believe you will enjoy this game.
 
 ### Level 1
